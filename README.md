@@ -1,8 +1,8 @@
 # AISC 2007 - Case Study 2
 This is the AISC 2007 - Deep Learning Case Study 2 assignment performed on AI and Data Science (M07 Group 2) course performed by Group 2.
 - Instructor: Bhavik Gandhi
-- Project Demonstration: 
-- Website Deployed: https://cuddly-chainsaw-645xx5qjjx9fxxr4-8501.app.github.dev/
+- Project Demonstration: https://drive.google.com/file/d/1LF3opmvpMXFA-zcZV0HhnUAIAz6ELEbz/view?usp=sharing
+- Website Deployed: https://bug-free-space-fiesta-5xr77r6qqpjh4556-8501.app.github.dev/
 The website is deployed through Streamlit sharing. However as model.h5 files have heavy size over 100 MB, .h5 files couldn’t be pushed into this github repository.
 
 # Models in .h5:
